@@ -1,5 +1,15 @@
 # commentsCRUD
-HOME PAGE<br/>
+
+Technologies used: HTML, CSS, js, ejs, node, express.
+NPM modules used: 
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "uuid": "^8.3.2"
+    
+-> For database I have just used an array as of now!
+
+<b>HOME PAGE</b><br/>
 <img width="960" alt="comments" src="https://user-images.githubusercontent.com/71789479/132256215-d8fb862e-abe9-40b6-9e26-599cb3066fb4.PNG">
 
 CREATE<br/>

@@ -8,7 +8,7 @@
     "uuid": "^8.3.2"
 
 -> For database I have just used an array as of now!<br/>
--> uuid NPM pakage was used to create uniquly different id's for comments.
+-> uuid NPM pakage was used to create uniquely different id's for comments.
 
 <b>HOME PAGE</b><br/>
 <img width="960" alt="comments" src="https://user-images.githubusercontent.com/71789479/132256215-d8fb862e-abe9-40b6-9e26-599cb3066fb4.PNG">

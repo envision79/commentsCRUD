@@ -7,7 +7,7 @@
     "method-override": "^3.0.0",<br/>
     "uuid": "^8.3.2"
 
--> For database I have just used an array as of now!
+-> For database I have just used an array as of now!<br/>
 -> uuid NPM pakage was used to create uniquly different id's for comments.
 
 <b>HOME PAGE</b><br/>

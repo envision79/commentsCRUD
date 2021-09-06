@@ -1,6 +1,6 @@
 # commentsCRUD
 
-<b>Technologies used:</b> HTML, CSS, js, ejs, node, express.<br/>
+<b>Technologies used:</b> HTML, CSS, JS, EJS, nodeJS, expressJS.<br/>
 <b>NPM modules used:</b><br/>
     "ejs": "^3.1.6",<br/>
     "express": "^4.17.1",<br/>
@@ -8,6 +8,7 @@
     "uuid": "^8.3.2"
 
 -> For database I have just used an array as of now!
+-> uuid NPM pakage was used to create uniquly different id's for comments.
 
 <b>HOME PAGE</b><br/>
 <img width="960" alt="comments" src="https://user-images.githubusercontent.com/71789479/132256215-d8fb862e-abe9-40b6-9e26-599cb3066fb4.PNG">

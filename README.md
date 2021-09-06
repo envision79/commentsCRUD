@@ -20,7 +20,7 @@ CREATE</b><br/>
 <b>READ</b><br/>
 <img width="960" alt="details" src="https://user-images.githubusercontent.com/71789479/132256242-2567b81f-d72e-4ecc-ae88-595f4c6c01a7.PNG">
 
-<b>UPDAT</b><br/>
+<b>UPDATE</b><br/>
 <img width="960" alt="edit" src="https://user-images.githubusercontent.com/71789479/132256252-c217d310-af2c-4edd-a53b-aa90c72a7144.PNG">
 
 <b>DELETE</b><br/>

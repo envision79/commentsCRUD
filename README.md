@@ -1,6 +1,7 @@
 # commentsCRUD
 
 <b>Technologies used:</b> HTML, CSS, JS, EJS, nodeJS, expressJS.<br/>
+
 <b>NPM modules used:</b><br/>
     "ejs": "^3.1.6",<br/>
     "express": "^4.17.1",<br/>
@@ -13,7 +14,7 @@
 <b>HOME PAGE</b><br/>
 <img width="960" alt="comments" src="https://user-images.githubusercontent.com/71789479/132256215-d8fb862e-abe9-40b6-9e26-599cb3066fb4.PNG">
 
-CREATE</b><br/>
+<b>CREATE</b><br/>
 <img width="960" alt="new" src="https://user-images.githubusercontent.com/71789479/132256224-c0c442ac-8593-48be-8551-c70c90c390c5.PNG">
 <img width="960" alt="updated comment" src="https://user-images.githubusercontent.com/71789479/132256227-fb33d1fd-340d-499d-b720-cafa238f30e1.PNG">
 

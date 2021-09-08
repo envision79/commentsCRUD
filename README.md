@@ -1,5 +1,7 @@
 # commentsCRUD
 
+This is a comments website built while completing the course, The web Developers Bootcamp by Colt Steele. It uses Nodejs and it's frame works and semantic ui for styling.
+
 <b>Technologies used:</b> HTML, CSS, JS, EJS, nodeJS, expressJS.<br/>
 
 <b>NPM modules used:</b><br/>
